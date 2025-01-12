@@ -1,7 +1,7 @@
 # Amazon Sales Dashboard 📊 #
 An intuitive, dynamic, and real-time analytics platform for tracking Amazon sales, customer behavior, and operational metrics. Built with Microsoft Power BI, this dashboard helps businesses optimize sales strategies and monitor product performance efficiently.
 
-# Enhanced Features 🚀
+## Enhanced Features 🚀
 **📌 Interactive Dashboard Tabs** <br><br>
 **1. Overview Tab:**
 
@@ -18,45 +18,38 @@ An intuitive, dynamic, and real-time analytics platform for tracking Amazon sale
 **3. Product View Tab:**
 
 - **Individual Product Insights:** Track Sale Amount, Units Sold, Average Rating. Performance indicators (e.g., revenue trends, order volume, and customer ratings).
-- **Advanced Visuals:**Monthly trends with pie charts for shipping status and delivery times.
+- **Advanced Visuals:** Monthly trends with pie charts for shipping status and delivery times.
   
-# 🔄 Dynamic Features
-- **Slicers for Filtering:**
-
-Advanced filtering options: Slice by product categories, region, time, and customer ratings.
-Dynamic time windows: Filter data by custom time periods (day, week, month, or custom range).
-Custom Visualizations:
-
-Funnel charts: Track stages of product lifecycle (e.g., listed, pending, sold).
-Pareto Analysis: Visualize the 80/20 rule – identify top-selling products, categories, and regions.
-Tree Maps: Visualize product sales hierarchy and status with compact, easy-to-read visuals.
-Key Trend Analysis:
-
-Sales Growth Trends: Monitor how each region or product category has evolved.
-Seasonality Analysis: Understand peak sales periods and optimize product restocking.
-Real-Time Filtering and Comparison:
-
-Comparative Analysis: Compare current data with previous periods (week, month, year).
-Side-by-Side Comparison: Compare product categories, regions, or time periods using dynamic visuals. <br>
+## Dynamic Features 🔄 <br>
+- **Drill-Through Reports:** Deep dive into specific regions, products, or time periods.
+- **Slicers:** Filter by product category, region, or timeline for real-time analysis.
+- **Custom Visuals:** Interactive charts and KPIs for decision-making. <br>
 
 ## Tools and Technologies ⚙️ <br>
-- **Microsoft Power BI:** Data modeling, interactive visualization, and real-time filtering. Utilized DAX for advanced analytics and custom calculations. <br>
-- **Data Sources:** Sampled datasets with simulated transaction and inventory data for Amazon sales. CSV and Excel data integrated from e-commerce platforms for real-world data insights. <br>
-- **Power Query:** Automating data transformations and refreshing reports from external sources. Integrating live data sources with APIs. <br>
+- **Microsoft Power BI:**  Data modeling, interactive visualization, and real-time filtering. Utilized DAX for advanced analytics and custom calculations. <br>
+- **Data Sources:**  Sampled datasets with simulated transaction and inventory data for Amazon sales. CSV and Excel data integrated from e-commerce platforms for real-world data insights. <br>
+- **Power Query:**  Automating data transformations and refreshing reports from external sources. Integrating live data sources with APIs. <br>
 
-# Dashboard Previews 🖼️ <br>
+## Dashboard Previews 🖼️ <br>
 
-1.Overview Tab:
-Real-time sales data, regional maps, and high-level KPIs.
-2.Product Tab:
-Visual breakdown of product categories, stock levels, and performance indicators.
-3.Product View Tab:
-Detailed product performance with dynamic charts and ratings breakdown. <br>
+ **1. Overview Tab:** <br> <br>
+![Dashboard Analysis](https://github.com/Jiyachaudhari-05/Amazon_Dashboard/blob/main/Screenshot%202025-01-12%20182005.png) <br> <br>
+ **2. Product Tab:** <br> <br>
+![Dashboard Analysis](https://github.com/Jiyachaudhari-05/Amazon_Dashboard/blob/main/Screenshot%202025-01-12%20182044.png) <br> <br>
+
+ **3. Product View Tab:** <br> <br>
+![Dashboard Analysis](https://github.com/Jiyachaudhari-05/Amazon_Dashboard/blob/main/Screenshot%202025-01-12%20182142.png) <br> <br>
+
 ## Insights 📈 <br>
 - **Regional Performance:** Identify top-performing states and high-demand regions. <br>
 - **Product Performance:** Track best-sellers and low-performing inventory. <br>
 - **Customer Behavior:** Analyze sales and ratings to understand customer preferences. <br>
+
 ## Future Improvements 🔮 <br>
 - **Predictive Analytics:** Forecast sales and trends based on historical data. <br>
 - **Real-Time Updates:** Integrate live data from APIs for up-to-date insights. <br>
 - **Mobile Optimization:** Access the dashboard on mobile devices for convenience. <br>
+<br>
+<br>
+
+---
